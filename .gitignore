@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Next.js build
+.next/
+
+# uploads
+uploads/
+
+# Mac files
+.DS_Store
+
+# dotenv
+.env
+
+# Large binary files
+*.dylib
+*.node
+*.dylib.node
+*.mov
+*.mp4
+02240369_WEB101_PA1/

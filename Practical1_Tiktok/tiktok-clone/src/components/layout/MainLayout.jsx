@@ -77,7 +77,7 @@ export default function MainLayout({ children }) {
           </p>
           <Link href="/login">
             <button className="w-full py-2 px-4 border rounded-md font-medium mb-2 hover:bg-gray-50">
-              Log in
+              Login
             </button>
           </Link>
           <Link href="/signup">
@@ -117,7 +117,7 @@ export default function MainLayout({ children }) {
               {/* Header login button */}
               <Link href="/login">
                 <button className="bg-red-500 text-white px-6 py-1 rounded-md hover:bg-red-600">
-                  Log in
+                  Login
                 </button>
               </Link>
               <div>
